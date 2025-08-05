@@ -2,6 +2,12 @@
 
 A PyTorch-based Transformer model trained on Shakespearean text to generate stylized dialogue for creative writing, theatrical scripts, or educational tools.
 
+This project implements a custom Transformer-based language model trained on Shakespearean text to generate stylized dialogue and monologues.
+
+The goal is to explore how attention-based architectures can be used for creative writing tasks, specifically for assisting in **script writing**. The model is built from scratch using PyTorch and employs subword-level tokenization (Byte-Pair Encoding) to efficiently learn language structure from a small dataset.
+
+It can generate fluent, dramatic-style text — mimicking Shakespearean language — and showcases how language models can serve as tools for writers, playwrights, or educators.
+
 ---
 
 ##  Features
