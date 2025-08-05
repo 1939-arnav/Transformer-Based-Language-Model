@@ -1,10 +1,10 @@
-# 🧠 Transformer Script Writing Assistant
+#  Transformer Script Writing Assistant
 
 A PyTorch-based Transformer model trained on Shakespearean text to generate stylized dialogue for creative writing, theatrical scripts, or educational tools.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Transformer architecture inspired by the **Attention Is All You Need** paper
 - Subword-level tokenization using Byte-Pair Encoding (BPE)
@@ -14,7 +14,7 @@ A PyTorch-based Transformer model trained on Shakespearean text to generate styl
 
 ---
 
-## 📂 Files
+##  Files
 
 | File                          | Description                                           |
 |-------------------------------|-------------------------------------------------------|
@@ -25,11 +25,3 @@ A PyTorch-based Transformer model trained on Shakespearean text to generate styl
 | `README.md`                   | This file                                             |
 
 ---
-
-## 🧪 Example Output
-
-```text
-To thee, O gentle sun, I give thy light;
-And by thy grace, I see the stars alight.
-Wilt thou not say, the night is thine again?
-For in thy face, I find no hint of pain.
